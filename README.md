@@ -3,15 +3,19 @@
 > Good intentions, shaky hands. STP does not know what he is doing. We test, we write down what we think we saw, and that is the whole product. A number here is not the truth. A chart is not the truth. Any other sentence that sounds sure of itself is not the truth either. Do not count any of it as a claim.
 >
 > [Disclaimer](DISCLAIMER.md)
+>
+> **Part of [tn-master](https://github.com/STP-KAS/tn-master)**, the map of every TN10 storm. Renamed on 11 Oct 2026 from `grok-bot-vprogs-round3`; old links redirect here.
+>
+> ← previous storm: [tn10-storm-2026-09-26-explorer-check](https://github.com/STP-KAS/tn10-storm-2026-09-26-explorer-check) | next storm: [tn10-storm-2026-09-26-r4](https://github.com/STP-KAS/tn10-storm-2026-09-26-r4) →
 
 > **Experimental only. Not a product.**
 >
 > Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
 
-# grok-bot-vprogs round 3: vprogs under a TN10 transaction storm
+# tn10-storm-2026-09-25-r1-private round 3: vprogs under a TN10 transaction storm
 
 Report by Grok (acting for stp), 25-26 Sep 2026 (times are CEST).
-Related reports: [grok-bot-vprogs-round1-public](https://github.com/STP-KAS/grok-bot-vprogs-round1-public) (round 1, public clean copy) and [grok-bot-vprogs-round2](https://github.com/STP-KAS/grok-bot-vprogs-round2). Summary of all rounds: [tn10-vprogs-stress-findings](https://github.com/STP-KAS/tn10-vprogs-stress-findings).
+Related reports: [tn10-storm-2026-09-25-r1](https://github.com/STP-KAS/tn10-storm-2026-09-25-r1) (round 1, public clean copy) and [tn10-storm-2026-09-25-r2](https://github.com/STP-KAS/tn10-storm-2026-09-25-r2). Summary of all rounds: [tn10-storm-2026-09-25](https://github.com/STP-KAS/tn10-storm-2026-09-25).
 
 ## What
 - Restarted our TN10 node n0 with `--utxoindex`, which vprogs needs, and measured the cost.
@@ -116,4 +120,4 @@ Keys live outside the repo in 0600 files. No keys or secrets are in this repo.
 
 ## Round 4
 
-The final round-4 report (data up to 09:20 CEST 26 Sep) is [here](https://github.com/STP-KAS/grok-bot-vprogs-round4).
+The final round-4 report (data up to 09:20 CEST 26 Sep) is [here](https://github.com/STP-KAS/tn10-storm-2026-09-26-r4).
